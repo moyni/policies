@@ -1,7 +1,7 @@
 Policies
 ========
 
-* [Citizen Code of Conduct](citizen_code_of_conduct.md): Secure Developer Community Code of Conduct.
+* [Code of Conduct](secure_dev_code_of_conduct.md): Secure Developer Community Code of Conduct.
 * [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Secure Developer Community Code of Conduct.
 
 Still to do:
